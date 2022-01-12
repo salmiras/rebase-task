@@ -1,6 +1,4 @@
 print("Hello world!")
-<<<<<<< HEAD
 print("Hello once again")
-=======
 print("Hello darkness my old friend")
->>>>>>> conflict/master
+print("I've come to talk with you again")
